@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "displayName": "ExamplePluginTS",
     "dependencies": {
-        "@types/node": "20.5.2"
+        "@types/node": "20.5.3"
     }
 }
