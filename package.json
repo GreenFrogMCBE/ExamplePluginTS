@@ -1,0 +1,9 @@
+{
+    "name": "exampleplugints",
+    "main": "exampleplugin.js",
+    "version": "1.0.0",
+    "displayName": "ExamplePluginTS",
+    "dependencies": {
+        "@types/node": "20.5.2"
+    }
+}
