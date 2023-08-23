@@ -4,6 +4,7 @@
     "version": "1.0.0",
     "displayName": "ExamplePluginTS",
     "dependencies": {
-        "@types/node": "20.5.3"
+        "@types/node": "^20.5.3",
+        "typescript": "^5.1.6"
     }
 }
