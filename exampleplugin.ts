@@ -19,6 +19,7 @@ import { Player, LogMessage, PlayerSpawnEvent } from "Frog";
 import * as LegacyToRuntimeIdConverter from "../../src/block/LegacyToRuntimeIdConverter";
 import * as CreteriaName from "../../src/scoreboard/types/CreteriaName";
 import * as DisplaySlot from "../../src/scoreboard/types/DisplaySlot";
+import * as CommandManager from "../../src/server/CommandManager";
 import * as DimensionId from "../../src/world/types/DimensionId";
 import * as Scoreboard from "../../src/scoreboard/Scoreboard";
 import * as TitleVariant from "../../src/player/types/Title";
