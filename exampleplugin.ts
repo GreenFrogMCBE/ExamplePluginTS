@@ -10,7 +10,6 @@
  * which requires you to agree to its terms if you wish to use or make any changes to it.
  *
  * @license WTFPL
- 
  * @link Github - https://github.com/GreenFrogMCBE/ExamplePluginTS
  * @link Discord - https://discord.gg/UFqrnAbqjP
  */
