@@ -33,7 +33,9 @@ import * as Toast from "../../src/player/Toast";
 import * as Form from "../../src/forms/Form";
 import * as Frog from "../../src/Frog";
 
-// This function will be called when the server starts
+/**
+ * This executes when the plugin loads
+ */
 export function onLoad(): void {
     /** 
      * 1.0 - Logging messages
@@ -437,7 +439,9 @@ export function onLoad(): void {
     });
 }
 
-// This function will be called when the server shutdowns
+/**
+ * This executes when the plugin shutdowns
+ */
 export function onShutdown(): void {
     // ...
 }
