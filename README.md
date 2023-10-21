@@ -1,6 +1,6 @@
 # ExamplePluginTS
 
-An example TypeScript plugin showcasing GreenFrog's API
+An example TypeScript plugin showcasing GreenFrog API
 
 ## Compiling
 
